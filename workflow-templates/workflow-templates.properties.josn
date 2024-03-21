@@ -1,0 +1,13 @@
+{
+    "name": "Training Workflow",
+    "description": "Training CI starter workflow.",
+    "iconName": "octicon mortar-board-24",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
